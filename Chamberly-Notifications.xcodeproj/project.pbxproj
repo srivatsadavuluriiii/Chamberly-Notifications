@@ -11,6 +11,19 @@
 		F98936942BA0BBF9006EC430 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98936932BA0BBF9006EC430 /* ContentView.swift */; };
 		F98936962BA0BBFA006EC430 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F98936952BA0BBFA006EC430 /* Assets.xcassets */; };
 		F98936992BA0BBFA006EC430 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F98936982BA0BBFA006EC430 /* Preview Assets.xcassets */; };
+		F98936A02BA0BC06006EC430 /* JoinChamberNotification.swift in Sources */ = {isa = PBXBuildFile; fileRef = F989369F2BA0BC06006EC430 /* JoinChamberNotification.swift */; };
+		F98936A32BA0BC61006EC430 /* InviteToChamberNotification.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98936A22BA0BC61006EC430 /* InviteToChamberNotification.swift */; };
+		F98936A52BA0BC7D006EC430 /* BadgeNotification.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98936A42BA0BC7D006EC430 /* BadgeNotification.swift */; };
+		F98936A72BA0BC94006EC430 /* SystemGeneratedNotification.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98936A62BA0BC94006EC430 /* SystemGeneratedNotification.swift */; };
+		F98936A92BA0BCB1006EC430 /* NotificationItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98936A82BA0BCB1006EC430 /* NotificationItem.swift */; };
+		F98936AC2BA0BCE4006EC430 /* NotificationRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98936AB2BA0BCE4006EC430 /* NotificationRow.swift */; };
+		F98936AE2BA0C2D5006EC430 /* SystemGeneratedNotificationRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98936AD2BA0C2D5006EC430 /* SystemGeneratedNotificationRowView.swift */; };
+		F98936B02BA0C344006EC430 /* JoinChamberNotificationRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98936AF2BA0C344006EC430 /* JoinChamberNotificationRowView.swift */; };
+		F98936B42BA0C688006EC430 /* BadgeNotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98936B32BA0C688006EC430 /* BadgeNotificationView.swift */; };
+		F98936B62BA0C6B6006EC430 /* InviteToChamberNotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98936B52BA0C6B6006EC430 /* InviteToChamberNotificationView.swift */; };
+		F9AB9F9B2BA0DF1F005E3CF0 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9AB9F9A2BA0DF1F005E3CF0 /* SettingsView.swift */; };
+		F9AB9F9D2BA0E361005E3CF0 /* SettingChildType1.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9AB9F9C2BA0E361005E3CF0 /* SettingChildType1.swift */; };
+		F9AB9F9F2BA0E377005E3CF0 /* SettingChildType2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9AB9F9E2BA0E377005E3CF0 /* SettingChildType2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +32,19 @@
 		F98936932BA0BBF9006EC430 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F98936952BA0BBFA006EC430 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F98936982BA0BBFA006EC430 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F989369F2BA0BC06006EC430 /* JoinChamberNotification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JoinChamberNotification.swift; sourceTree = "<group>"; };
+		F98936A22BA0BC61006EC430 /* InviteToChamberNotification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InviteToChamberNotification.swift; sourceTree = "<group>"; };
+		F98936A42BA0BC7D006EC430 /* BadgeNotification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeNotification.swift; sourceTree = "<group>"; };
+		F98936A62BA0BC94006EC430 /* SystemGeneratedNotification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemGeneratedNotification.swift; sourceTree = "<group>"; };
+		F98936A82BA0BCB1006EC430 /* NotificationItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationItem.swift; sourceTree = "<group>"; };
+		F98936AB2BA0BCE4006EC430 /* NotificationRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationRow.swift; sourceTree = "<group>"; };
+		F98936AD2BA0C2D5006EC430 /* SystemGeneratedNotificationRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemGeneratedNotificationRowView.swift; sourceTree = "<group>"; };
+		F98936AF2BA0C344006EC430 /* JoinChamberNotificationRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JoinChamberNotificationRowView.swift; sourceTree = "<group>"; };
+		F98936B32BA0C688006EC430 /* BadgeNotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeNotificationView.swift; sourceTree = "<group>"; };
+		F98936B52BA0C6B6006EC430 /* InviteToChamberNotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InviteToChamberNotificationView.swift; sourceTree = "<group>"; };
+		F9AB9F9A2BA0DF1F005E3CF0 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		F9AB9F9C2BA0E361005E3CF0 /* SettingChildType1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingChildType1.swift; sourceTree = "<group>"; };
+		F9AB9F9E2BA0E377005E3CF0 /* SettingChildType2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingChildType2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +77,9 @@
 		F98936902BA0BBF9006EC430 /* Chamberly-Notifications */ = {
 			isa = PBXGroup;
 			children = (
+				F9AB9F992BA0DDE5005E3CF0 /* SettingsView */,
+				F98936AA2BA0BCD4006EC430 /* Views */,
+				F98936A12BA0BC4D006EC430 /* Models */,
 				F98936912BA0BBF9006EC430 /* Chamberly_NotificationsApp.swift */,
 				F98936932BA0BBF9006EC430 /* ContentView.swift */,
 				F98936952BA0BBFA006EC430 /* Assets.xcassets */,
@@ -65,6 +94,40 @@
 				F98936982BA0BBFA006EC430 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		F98936A12BA0BC4D006EC430 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				F989369F2BA0BC06006EC430 /* JoinChamberNotification.swift */,
+				F98936A22BA0BC61006EC430 /* InviteToChamberNotification.swift */,
+				F98936A42BA0BC7D006EC430 /* BadgeNotification.swift */,
+				F98936A62BA0BC94006EC430 /* SystemGeneratedNotification.swift */,
+				F98936A82BA0BCB1006EC430 /* NotificationItem.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		F98936AA2BA0BCD4006EC430 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				F98936AB2BA0BCE4006EC430 /* NotificationRow.swift */,
+				F98936B52BA0C6B6006EC430 /* InviteToChamberNotificationView.swift */,
+				F98936B32BA0C688006EC430 /* BadgeNotificationView.swift */,
+				F98936AF2BA0C344006EC430 /* JoinChamberNotificationRowView.swift */,
+				F98936AD2BA0C2D5006EC430 /* SystemGeneratedNotificationRowView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		F9AB9F992BA0DDE5005E3CF0 /* SettingsView */ = {
+			isa = PBXGroup;
+			children = (
+				F9AB9F9A2BA0DF1F005E3CF0 /* SettingsView.swift */,
+				F9AB9F9C2BA0E361005E3CF0 /* SettingChildType1.swift */,
+				F9AB9F9E2BA0E377005E3CF0 /* SettingChildType2.swift */,
+			);
+			path = SettingsView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +200,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F98936AE2BA0C2D5006EC430 /* SystemGeneratedNotificationRowView.swift in Sources */,
+				F9AB9F9F2BA0E377005E3CF0 /* SettingChildType2.swift in Sources */,
+				F9AB9F9D2BA0E361005E3CF0 /* SettingChildType1.swift in Sources */,
+				F98936B62BA0C6B6006EC430 /* InviteToChamberNotificationView.swift in Sources */,
+				F98936B42BA0C688006EC430 /* BadgeNotificationView.swift in Sources */,
+				F98936A52BA0BC7D006EC430 /* BadgeNotification.swift in Sources */,
+				F98936A02BA0BC06006EC430 /* JoinChamberNotification.swift in Sources */,
+				F98936A92BA0BCB1006EC430 /* NotificationItem.swift in Sources */,
+				F98936A32BA0BC61006EC430 /* InviteToChamberNotification.swift in Sources */,
 				F98936942BA0BBF9006EC430 /* ContentView.swift in Sources */,
+				F98936B02BA0C344006EC430 /* JoinChamberNotificationRowView.swift in Sources */,
 				F98936922BA0BBF9006EC430 /* Chamberly_NotificationsApp.swift in Sources */,
+				F98936A72BA0BC94006EC430 /* SystemGeneratedNotification.swift in Sources */,
+				F98936AC2BA0BCE4006EC430 /* NotificationRow.swift in Sources */,
+				F9AB9F9B2BA0DF1F005E3CF0 /* SettingsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
